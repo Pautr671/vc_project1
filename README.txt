@@ -5,3 +5,5 @@ Project notes for the variant calling pipeline
 2. Align reads
 
 3. Variant calling 
+
+4. Made a changeru on de githubu
